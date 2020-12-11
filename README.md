@@ -30,13 +30,13 @@ It has been entirely build to be working as a one with [IoMBian OS ](https://git
 > **Warning**: Try to buy locally ```nearest store```.
 
 ## Scheme
-![enter image description here](https://lh3.googleusercontent.com/oWflP5bfZTtJlv-J429yIIOq5YmHtLOYJqOI9CBtldYAgg1OJi9KcoHFFvBDa0GRCT9idU84Kr8jjw "Scheme")
+![enter image description here](https://github.com/axpirina/IOM2040/blob/main/IOT2040_bb.png "Scheme")
 
 
   - (For a more detailed raspberry pi 4 pinout, please refer to the following [link](https://www.raspberrypi.org/documentation/usage/gpio/))
 
 
-## Making process
+## Making progress
 
 Firstly we recommend to make the 3D DIN case holes and place the elements on then. 
 
@@ -47,14 +47,14 @@ Firstly we recommend to make the 3D DIN case holes and place the elements on the
 
 These are the measurements for the 3D enclosure holes:
 
-![enter image description here](https://lh3.googleusercontent.com/0USz9_-jstyh0bE22fXo4tY2aYRqqFAteGH1i3OpO5lSuIBfVyHOM7LMI21FbrwtA9DBfQO_VFh-Fw "3D enclosure")
+![enter image description here](https://github.com/axpirina/IOM2040/blob/main/IOT2040%202D.png "3D enclosure")
 And these the measurements of the screen location, although we recommend to glue the LCD to the screen, make the Ø2 holes and release and fix it with bolts afterwards.
-![enter image description here](https://lh3.googleusercontent.com/SfB6Nw3MIV0L4Yi3q_pOGjSzyYWF7LTtdLGIeW6w9ipCNhOicRko2MsVpm0B_33aGONbmdcEPzgPiw "LCD")
+![enter image description here](https://github.com/axpirina/IOM2040/blob/main/Pantaila%20CAD%202D.png "LCD")
 ## Soldering
 
 Prepare the elements with a female header in every pin on them. It requires a bit of soldering.
 
-![enter image description here](https://lh3.googleusercontent.com/r_Olo5XvKqdSfHvQHkE7F9TzCm4_Tp4bpMi6mgk_NmQzpQB3OhuFc5QZ5BaVWSCLEG7oBKZoi4cP-g)
+![enter image description here](https://github.com/axpirina/IOM2040/blob/main/Elementuak.png)
 
 ## Mounting
 
