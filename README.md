@@ -7,7 +7,7 @@
 **IOT2040** (hardware for [IoMBian OS](https://github.com/Tknika/iombian) ) is a raspberry pi 4 based gateway hardware for industrial teaching area. 
 
 It has been developed mainly for teachers (educational environments), in order to facilitate the implementation of IoM (Internet of Machines) and IIoT (Industrial Internet of Things) systems in embedded devices.
-![enter image description here](https://lh3.googleusercontent.com/IiPkJw7OxImbZXGjCXrxPTuGH5toBDTUJOxaIMBCcpT_Gfv2F1Y7hq6mMWEO5i-1JiSb6Ia-DBxpBQ "IOM2040")
+![enter image description here](https://github.com/axpirina/IOM2040/blob/main/IOT2040k.png "IOM2040")
 The initial configuration have a push button to wake or sleep down the hardware in a secure way and red LED to monitor the hardware running [iom shutdown controller](https://github.com/Tknika/iom2040-shutdown-controller).
 
  It also have a switch and a green LED for a plug an teach practicing with Node Red.  
