@@ -49,6 +49,7 @@ These are the measurements for the 3D enclosure holes:
 
 ![enter image description here](https://github.com/axpirina/IOM2040/blob/main/IOT2040%202D.png "3D enclosure")
 And these the measurements of the screen location, although we recommend to glue the LCD to the screen, make the Ø2 holes and release and fix it with bolts afterwards.
+
 ![enter image description here](https://github.com/axpirina/IOM2040/blob/main/Pantaila%20CAD%202D.png "LCD")
 ## Soldering
 
