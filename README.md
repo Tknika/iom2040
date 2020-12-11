@@ -17,7 +17,7 @@ It has been entirely build to be working as a one with [IoMBian OS ](https://git
 
 ## List of elements
 |Elements| Quantity | Link | 
-|--|--|--|--|--|
+|---|---|---|
 | Raspberry Pi 4 Kit| 1 | |
 | 1.7'' LCD Screen| 1 |[1,77 LCD - Amazon](https://www.amazon.es/AZDelivery-Pantalla-Pulgadas-p%C3%ADxeles-Display/dp/B07TJGF8HS/ref=sr_1_2?__mk_es_ES=%C3%85M%C3%85%C5%BD%C3%95%C3%91&dchild=1&keywords=raspberry%2Bpi%2B1.77%2Btft&qid=1603185668&sr=8-2&th=1)|
 | DIN enclosure| 1 |[DIN enclosure - Amazon](https://www.amazon.es/GeeekPi-Caja-para-Raspberry-riel/dp/B083B93PPM)|
