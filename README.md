@@ -4,10 +4,10 @@
 
 ## Introduction
 
-**IOT2040** (hardware for [IoMBian OS](https://github.com/Tknika/iombian) ) is a raspberry pi 4 based gateway hardware for industrial teaching area. 
+**IoM2040** (hardware for [IoMBian OS](https://github.com/Tknika/iombian) ) is a Raspberry Pi 4 based gateway hardware for industrial teaching area. 
 
 It has been developed mainly for teachers (educational environments), in order to facilitate the implementation of IoM (Internet of Machines) and IIoT (Industrial Internet of Things) systems in embedded devices.
-![enter image description here](https://github.com/axpirina/IOM2040/blob/main/IOT2040k.png "IOM2040")
+![enter image description here](images/IOM2040k.png "IOM2040")
 The initial configuration have a push button to wake or sleep down the hardware in a secure way and red LED to monitor the hardware running [iom shutdown controller](https://github.com/Tknika/iom2040-shutdown-controller).
 
  It also have a switch and a green LED for a plug an teach practicing with Node Red.  
@@ -30,7 +30,7 @@ It has been entirely build to be working as a one with [IoMBian OS ](https://git
 > **Warning**: Try to buy locally ```nearest store```.
 
 ## Scheme
-![enter image description here](https://github.com/axpirina/IOM2040/blob/main/IOT2040_bb.png "Scheme")
+![enter image description here](images/IOM2040_bb.png "Scheme")
 
 
   - (For a more detailed raspberry pi 4 pinout, please refer to the following [link](https://www.raspberrypi.org/documentation/usage/gpio/))
@@ -47,16 +47,16 @@ Firstly we recommend to make the 3D DIN case holes and place the elements on the
 
 These are the measurements for the 3D enclosure holes:
 
-![enter image description here](https://github.com/axpirina/IOM2040/blob/main/IOT2040%202D.png "3D enclosure")
+![enter image description here](images/IOM2040%202D.png "3D enclosure")
 
 And these the measurements of the screen location, although we recommend to glue the LCD to the screen, make the Ø2 holes and release and fix it with bolts afterwards.
 
-![enter image description here](https://github.com/axpirina/IOM2040/blob/main/Pantaila%20CAD%202D.png "LCD")
+![enter image description here](images/Pantaila%20CAD%202D.png "LCD")
 ## Soldering
 
 Prepare the elements with a female header in every pin on them. It requires a bit of soldering.
 
-![enter image description here](https://github.com/axpirina/IOM2040/blob/main/Elementuak.png)
+![enter image description here](images/Elementuak.png)
 
 ## Mounting
 
